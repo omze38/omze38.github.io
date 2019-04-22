@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Hole In One</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+
+	<link rel="manifest" href="https://www.i-gamer.net/gfile528/flash5/1.3847_HoleInOne/appmanifest.json">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<link rel="apple-touch-icon" sizes="128x128" href="https://www.i-gamer.net/gfile528/flash5/1.3847_HoleInOne/icons/icon-128.png">
+	<link rel="apple-touch-icon" sizes="256x256" href="https://www.i-gamer.net/gfile528/flash5/1.3847_HoleInOne/icons/icon-256.png">
+	<link rel="apple-touch-icon" sizes="512x512" href="https://www.i-gamer.net/gfile528/flash5/1.3847_HoleInOne/icons/icon-512.png">
+	<link rel="icon" type="image/png" href="https://www.i-gamer.net/gfile528/flash5/1.3847_HoleInOne/icons/icon-512.png">
+
+<link rel="stylesheet" href="https://www.i-gamer.net/gfile528/flash5/1.3847_HoleInOne/style.css">
+
+</head>
+<body>
+<div id="fb-root"></div>
+	<script src="https://www.i-gamer.net/gfile528/flash5/1.3847_HoleInOne/box2d.asm.js"></script>
+	<script src="https://www.i-gamer.net/gfile528/flash5/1.3847_HoleInOne/opus.js"></script>
+	<script src="https://www.i-gamer.net/gfile528/flash5/1.3847_HoleInOne/c2runtime.js"></script>
+	<script src="https://www.i-gamer.net/gfile528/flash5/1.3847_HoleInOne/start.js"></script>
+	<script src="https://www.i-gamer.net/gfile528/flash5/1.3847_HoleInOne/register-sw.js"></script>
+</body>
+</html>
